@@ -16,7 +16,6 @@ The project was created mainly for learning purposes by following tutorials, exp
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
